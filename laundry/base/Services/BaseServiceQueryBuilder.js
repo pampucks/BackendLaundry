@@ -5,7 +5,7 @@ const BaseServiceQueryBuilder = require("knex")({
     port: 3306,
     user: "root",
     password: "",
-    database: "laundry",
+    database: "laundry_db",
   },
 });
 
